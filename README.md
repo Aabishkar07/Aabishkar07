@@ -10,7 +10,7 @@
 
 - A passionate Self-taught `Full-stack developer`
 - Currently learning `Web & App Development`
-- Studying in `Xavier International College`
+- Studying in `Padmashree International College`
 - 🔭 I’m currently working with `Adsaro UK`
 - 📫 How to reach me: `aaviscar09@gmail.com`
 - I’m currently learning `Computer Science` and `Software Engineering`
@@ -37,6 +37,7 @@
 
 ```text
 HTML          ██████████████████████░░░   90.0%
+Laravel          ██████████████████████░░░   90.0%
 CSS           ████████████████████████░   95.5%
 Javascript    ████████████████████░░░░░   80.0%
 Typescript    ██████████████████████░░░   90.0%
@@ -63,10 +64,10 @@ Nextjs        ████████████████████░░
 <h2> Get in touch with me 👀 </h2>
 
 
-- 📧 Email: [krishnapokharel.2022@gmail.com](mailto:krishnapokharel.2022@gmail.com)
-- 💼 LinkedIn: [Krishna Pokharel](
-https://www.linkedin.com/in/krishna-pokharel-0ab832230)
-- 💼 Facebook: [Krishna Pokharel](
-https://www.facebook.com/profile.php?id=100085509233455)
+- 📧 Email: [aaviscare09@gmail.com]
+- 💼 LinkedIn: [Aabishkar Shrestha](
+
+- 💼 Facebook: [Aabishkar Shrestha](
+
 
 

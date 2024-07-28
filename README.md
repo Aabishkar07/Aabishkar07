@@ -48,10 +48,7 @@ Nextjs        ████████████████████░░
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Kpokharel1122&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpokharel1122&theme=react&layout=compact" />
-</p>
+
 <br>
 
 

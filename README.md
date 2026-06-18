@@ -2,7 +2,7 @@
 
 
 
-## <picture><img src = "https://www.aabishkarshrestha.com.np/images/editiabout.jpg" width = 50px></picture> **About me**
+## <picture>🤵</picture> **About me**
 
 
 

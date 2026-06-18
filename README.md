@@ -60,7 +60,7 @@ Nextjs        ████████████████████░░
 <h2> Get in touch with me 👀 </h2>
 
 
-- 📧 Email: [aaviscare09@gmail.com]
+- 📧 Email: [aaviscar09@gmail.com]
 - 💼 LinkedIn: [Aabishkar Shrestha](
 
 - 💼 Facebook: [Aabishkar Shrestha](

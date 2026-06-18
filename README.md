@@ -61,9 +61,7 @@ Nextjs        ████████████████████░░
 
 
 - 📧 Email: [aaviscar09@gmail.com]
-- 💼 LinkedIn: [Aabishkar Shrestha](
-
-- 💼 Facebook: [Aabishkar Shrestha](
+- 💼 LinkedIn: [[Aabishkar Shrestha](https://www.linkedin.com/in/aabishkar-shrestha-550545247/)](
 
 
 

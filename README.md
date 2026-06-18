@@ -11,7 +11,7 @@
 - A passionate Self-taught `Full-stack developer`
 - Currently learning `Web & App Development`
 - Studying in `Padmashree International College`
-- 🔭 I’m currently working with `Adsaro UK`
+- 🔭 I’m currently working with `Softsaro`
 - 📫 How to reach me: `aaviscar09@gmail.com`
 - I’m currently learning `Computer Science` and `Software Engineering`
 - Always `learning new things`.
